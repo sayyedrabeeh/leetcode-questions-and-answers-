@@ -237,7 +237,7 @@ A: I try to add new solutions regularly, typically adding 5-10 new problems each
 
 - **GitHub**: [sayyedrabeeh](https://github.com/sayyedrabeeh)
 - **Email**: [sayyedrabeeh240@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sayyed-rabeeh/)
+- **LinkedIn**: [linkdin-sayyed rabeeh](https://www.linkedin.com/in/sayyed-rabeeh/)
  
 
 ---
