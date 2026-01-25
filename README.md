@@ -245,3 +245,23 @@ A: I try to add new solutions regularly, typically adding 5-10 new problems each
 If you find this repository helpful, please consider giving it a star! Your support encourages me to keep adding more solutions and improving existing ones.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+<!---LeetCode Topics End-->
