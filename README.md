@@ -249,19 +249,31 @@ Happy Coding! 🚀
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 <!---LeetCode Topics End-->
