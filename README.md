@@ -252,10 +252,12 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +279,8 @@ Happy Coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
