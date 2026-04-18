@@ -270,10 +270,12 @@ Happy Coding! 🚀
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2815-max-pair-sum-in-an-array](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2815-max-pair-sum-in-an-array](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sayyedrabeeh/leetcode-questions-and-answers-/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
